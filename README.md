@@ -16,10 +16,12 @@ Now I'm pointing all of that at race telemetry and trackside tech. I have not wo
 | [**Résumé Pipeline**](https://github.com/daksh2197/resume-pipeline)<br>[See the sample report](https://daksh2197.github.io/resume-pipeline/) | Ranks a daily list of job leads against my own rubric, then drafts a tailored application. I press send. | Every point in a score comes with the reason it was given |
 | [**Interview Room**](https://github.com/daksh2197/interview-room)<br>[Try it live](https://daksh2197.github.io/interview-room/) | A mock interviewer that asks one question at a time and grades STAR answers. | A suggested rewrite gets thrown out if it uses numbers the candidate never said |
 | [**Pitwall Telemetry**](https://github.com/daksh2197/pitwall-telemetry)<br>[Watch the replay](https://daksh2197.github.io/pitwall-telemetry/) | A race telemetry pipeline in miniature: CAN frames from a fake car, over a bad radio link, onto a pit-wall screen. | When the link drops, the car keeps the frames and fills the gap once it's back |
+| [**Coin Vault**](https://github.com/daksh2197/coin-vault)<br>[Try it live](https://daksh2197.github.io/coin-vault/) | A private ledger for coins and bullion: what you paid, what the metal is worth, and the gap. Nothing leaves your device. | Local-first software: a real database in the browser with migrations, and backups locked with a passphrase |
+| [**Banff Trip Cost**](https://github.com/daksh2197/banff-trip-cost)<br>[Try it live](https://daksh2197.github.io/banff-trip-cost/) | The whole number before you book a Banff trip: rental, fuel, park pass and winter extras, two quotes ranked side by side. | A data pipeline with a gate: a monthly open-data refresh that refuses to publish a bad file |
 
 ## In the garage
 
-Next out: the true cost of a Rockies road trip from live open data, a walk-versus-savings ranker for pickup spots, a max-bid calculator built on real Canadian auction results, and a private, local-first ledger for bullion and collector coins.
+Next out: a walk-versus-savings ranker for pickup spots, and a max-bid calculator built on real Canadian auction results.
 
 ## How I build
 
