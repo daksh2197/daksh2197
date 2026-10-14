@@ -13,10 +13,13 @@ Now I'm pointing all of that at race telemetry and trackside tech. I have not wo
 | Build | What it does | The idea in it |
 | --- | --- | --- |
 | [**Mol-Bhav Meter**](https://github.com/daksh2197/mol-bhav-meter)<br>[Try it live](https://daksh2197.github.io/mol-bhav-meter/) | A vendor says a price. You get a straight answer: great deal, bargain, or walk away. | Keep the math apart from the screen, so it can be tested without opening a browser |
+| [**Résumé Pipeline**](https://github.com/daksh2197/resume-pipeline)<br>[See the sample report](https://daksh2197.github.io/resume-pipeline/) | Ranks a daily list of job leads against my own rubric, then drafts a tailored application. I press send. | Every point in a score comes with the reason it was given |
+| [**Interview Room**](https://github.com/daksh2197/interview-room)<br>[Try it live](https://daksh2197.github.io/interview-room/) | A mock interviewer that asks one question at a time and grades STAR answers. | A suggested rewrite gets thrown out if it uses numbers the candidate never said |
+| [**Pitwall Telemetry**](https://github.com/daksh2197/pitwall-telemetry)<br>[Watch the replay](https://daksh2197.github.io/pitwall-telemetry/) | A race telemetry pipeline in miniature: CAN frames from a fake car, over a bad radio link, onto a pit-wall screen. | When the link drops, the car keeps the frames and fills the gap once it's back |
 
 ## In the garage
 
-Next out: a job-lead ranker that leaves the applying to me, a mock interviewer that grades STAR answers, and a race telemetry pipeline in miniature that sends CAN frames over a bad link to a pit-wall dashboard.
+Next out: the true cost of a Rockies road trip from live open data, a walk-versus-savings ranker for pickup spots, a max-bid calculator built on real Canadian auction results, and a private, local-first ledger for bullion and collector coins.
 
 ## How I build
 
