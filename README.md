@@ -12,6 +12,7 @@ Now I'm pointing all of that at race telemetry and trackside tech. I have not wo
 
 | Build | What it does | The idea in it |
 | --- | --- | --- |
+| [**Rev Key**](https://github.com/daksh2197/rev-key)<br>[Try it live](https://daksh2197.github.io/rev-key/) | The song tunes itself to your engine: hold the revs steady and the music moves its key so the engine's drone becomes the bass note. Reads a real car over Bluetooth OBD-II, never writes to it. | Book sound ahead of time: notes are scheduled 120 ms ahead on the audio clock, and the gear change is predicted from the RPM slope so the drop beats the speaker's delay |
 | [**Mol-Bhav Meter**](https://github.com/daksh2197/mol-bhav-meter)<br>[Try it live](https://daksh2197.github.io/mol-bhav-meter/) | A vendor says a price. You get a straight answer: great deal, bargain, or walk away. | Keep the math apart from the screen, so it can be tested without opening a browser |
 | [**Résumé Pipeline**](https://github.com/daksh2197/resume-pipeline)<br>[See the sample report](https://daksh2197.github.io/resume-pipeline/) | Ranks a daily list of job leads against my own rubric, then drafts a tailored application. I press send. | Every point in a score comes with the reason it was given |
 | [**Interview Room**](https://github.com/daksh2197/interview-room)<br>[Try it live](https://daksh2197.github.io/interview-room/) | A mock interviewer that asks one question at a time and grades STAR answers. | A suggested rewrite gets thrown out if it uses numbers the candidate never said |
